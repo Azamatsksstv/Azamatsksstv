@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm third course student at SDU
+I'm fourth course student at SDU
 
 
 ## 🌐 Socials:
