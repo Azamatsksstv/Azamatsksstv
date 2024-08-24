@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm fourth course student at SDU
+I'm Software Engineer at Jusan Bank
 
 
 ## 🌐 Socials:
