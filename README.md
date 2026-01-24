@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Software Engineer at KMF Bank
+I'm Software Development Engineer in Test at KMF Bank
 
 
 ## 🌐 Socials:
